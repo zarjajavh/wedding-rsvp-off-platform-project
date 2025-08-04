@@ -5,6 +5,7 @@ Let Elizabeth and Philip know if you can make it to their wedding by following t
 
 ## How to RSVP
 
+
 ### Assumptions
 - You are currently signed into your GitHub account
 - You have basic familiarity with Markdown
